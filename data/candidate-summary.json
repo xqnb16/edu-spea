@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-14",
+  "count": 1200,
+  "uniqueIds": 1200,
+  "topics": [
+    {
+      "name": "日常生活",
+      "count": 120
+    },
+    {
+      "name": "时尚穿搭",
+      "count": 130
+    },
+    {
+      "name": "个人成长",
+      "count": 140
+    },
+    {
+      "name": "观点表达",
+      "count": 140
+    },
+    {
+      "name": "文化体验",
+      "count": 140
+    },
+    {
+      "name": "美食购物",
+      "count": 150
+    },
+    {
+      "name": "城市旅行",
+      "count": 140
+    },
+    {
+      "name": "自然风光",
+      "count": 130
+    },
+    {
+      "name": "情感关系",
+      "count": 110
+    }
+  ],
+  "source": "YouTube public search via yt-dlp flat metadata",
+  "status": "candidate_metadata_only",
+  "rightsReviewed": 0,
+  "audioReviewed": 0,
+  "cefrReviewed": 0,
+  "notes": "Real video search records; media not downloaded. Topic is search-derived, English audio is unverified; captions, availability, licenses, accent and CEFR all require review."
+}

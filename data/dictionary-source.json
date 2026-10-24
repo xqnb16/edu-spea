@@ -1,0 +1,21 @@
+{
+  "name": "ECDICT · Edu Speak 学习词库",
+  "source": "https://github.com/skywind3000/ECDICT",
+  "download": "https://raw.githubusercontent.com/skywind3000/ECDICT/master/ecdict.csv",
+  "sourceSha256": "1a6947e04785db63613a92e14903cdae7954f7e84860b10e68e5c7cbb3f9c3cf",
+  "license": "MIT",
+  "licenseFile": "ECDICT-LICENSE.txt",
+  "preparedAt": "2026-10-24",
+  "entryCount": 10567,
+  "inflectedForms": 7077,
+  "subtitleUniqueWords": 9868,
+  "coveredSubtitleUniqueWords": 9376,
+  "coveredSubtitleTokens": 178320,
+  "totalSubtitleTokens": 179185,
+  "gzipBytes": 390040,
+  "notes": [
+    "收录现有课程可匹配词条及常用核心词；不是完整 ECDICT。",
+    "释义最多保留前四行；词形优先查原词条，再查显式变体映射。",
+    "补充常见缩写的编写释义；人名、地名和部分口语可能未收录。"
+  ]
+}

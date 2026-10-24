@@ -1,0 +1,14 @@
+1
+00:00:00,000 --> 00:00:05,000
+I decided to take it slow this morning.
+今天早上，我决定慢慢来。
+
+2
+00:00:05,000 --> 00:00:10,000
+First things first, I'm making myself a cup of coffee.
+先做最要紧的事：给自己冲杯咖啡。
+
+3
+00:00:10,000 --> 00:00:15,000
+I ran out of milk, so I'm having it black.
+牛奶用完了，所以我今天喝黑咖啡。
