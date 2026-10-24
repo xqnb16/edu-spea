@@ -1,0 +1,154 @@
+1
+00:00:00,000 --> 00:00:04,148
+Here's another really smart human trick suppose I ask you how many penguins are there.
+这里还有一个人类很聪明的小技巧：假设我问你，这里有多少只企鹅？
+
+2
+00:00:04,846 --> 00:00:10,851
+Well I bet I know how you'd solve that problem if you solved it you went one two three four five six seven eight.
+我敢说我知道你会怎样解决这个问题：如果你算出来了，就是数着一、二、三、四、五、六、七、八。
+
+3
+00:00:10,875 --> 00:00:16,332
+You counted them you named each one with a number and the last number you said was the number of penguins.
+你把它们数了一遍，给每一只配上一个数字；最后说出的数字，就是企鹅的数量。
+
+4
+00:00:16,356 --> 00:00:19,218
+This is a little trick that you're taught to use as kids.
+这是你们小时候就被教会使用的小技巧。
+
+5
+00:00:19,242 --> 00:00:24,121
+You learn the number list and you learn how to apply it a little linguistic trick.
+你学习数字序列，再学习怎样应用它；这是一个小小的语言技巧。
+
+6
+00:00:24,692 --> 00:00:29,542
+Well some languages don't do this because some languages don't have exact number words.
+她说，有些语言不这样做，因为有些语言没有表示精确数字的词。
+
+7
+00:00:29,927 --> 00:00:34,249
+They're languages that don't have a word like seven or a word like eight.
+有些语言没有像“七”或“八”这样的词。
+
+8
+00:00:34,921 --> 00:00:40,600
+In fact people who speak these languages don't count and they have trouble keeping track of exact quantities.
+她进一步说，说这些语言的人不计数，也难以追踪精确数量。
+
+9
+00:00:40,624 --> 00:00:46,841
+So for example if I ask you to match this number of penguins to the same number of ducks.
+比如，如果我让你用同样数量的鸭子，匹配这里的企鹅数量。
+
+10
+00:00:46,865 --> 00:00:52,888
+You would be able to do that by counting but folks who don't have that linguistic trick can't do that.
+你能够通过计数完成；但她说，没有这种语言技巧的人无法这样完成。
+
+11
+00:00:55,541 --> 00:00:59,869
+Languages also differ in how they divide up the color spectrum the visual world.
+语言也在如何划分色谱、划分视觉世界这方面有所不同。
+
+12
+00:01:00,236 --> 00:01:04,776
+Some languages have lots of words for colors some have only a couple words light and dark.
+有些语言有许多颜色词；有些只有少数几个，例如明与暗。
+
+13
+00:01:04,800 --> 00:01:08,423
+And languages differ in where they put boundaries between colors.
+不同语言为颜色划定分界的位置也不同。
+
+14
+00:01:08,447 --> 00:01:14,821
+So for example in english there's a word for blue that covers all of the colors that you can see on the screen.
+比如，在英语里，有一个表示蓝色的词，可以涵盖屏幕上你们看到的所有这些颜色。
+
+15
+00:01:14,845 --> 00:01:22,176
+But in russian there isn't a single word instead russian speakers have to differentiate between light blue goluboy and dark blue siniy.
+但她说，俄语里没有一个单独的词统括这些颜色；说俄语的人要区分浅蓝色 goluboy 和深蓝色 siniy。
+
+16
+00:01:23,026 --> 00:01:28,902
+So russians have this lifetime of experience of in language distinguishing these two colors.
+因此，她认为，俄语使用者一生都在通过语言区分这两种颜色。
+
+17
+00:01:28,926 --> 00:01:37,016
+When we test people's ability to perceptually discriminate these colors what we find is that russian speakers are faster across this linguistic boundary.
+当我们测试人们从感知上辨别这些颜色的能力时，她说，俄语使用者在跨越这一语言分类界线时反应更快。
+
+18
+00:01:37,040 --> 00:01:40,804
+They're faster to be able to tell the difference between a light and dark blue.
+他们能够更快地区分浅蓝与深蓝。
+
+19
+00:01:41,187 --> 00:01:47,810
+And when you look at people's brains as they're looking at colors say you have colors shifting slowly from light to dark blue.
+再看看人们观察颜色时的大脑活动：比方说，颜色慢慢从浅蓝变成深蓝。
+
+20
+00:01:48,686 --> 00:01:56,672
+The brains of people who use different words for light and dark blue will give a surprised reaction as the colors shift from light to dark.
+她说，使用不同词语表示浅蓝与深蓝的人，在颜色由浅变深时，大脑会出现一种“惊讶”反应。
+
+21
+00:01:56,696 --> 00:01:59,878
+As if ooh something has categorically changed.
+就好像在说：“噢，某个东西在类别上变了。”
+
+22
+00:01:59,902 --> 00:02:07,839
+Whereas the brains of english speakers for example that don't make this categorical distinction don't give that surprise because nothing is categorically changing.
+相比之下，她说，比如不作这种类别区分的英语使用者，其大脑没有这种惊讶反应，因为类别并没有变化。
+
+23
+00:02:09,942 --> 00:02:13,807
+Languages have all kinds of structural quirks this is one of my favorites.
+语言还有各种结构上的特别之处；这是我最喜欢的例子之一。
+
+24
+00:02:13,831 --> 00:02:20,917
+Lots of languages have grammatical gender every noun gets assigned a gender often masculine or feminine.
+很多语言有语法性别，每个名词都会被赋予一个性别，通常是阳性或阴性。
+
+25
+00:02:20,941 --> 00:02:28,935
+And these genders differ across languages so for example the sun is feminine in german but masculine in spanish and the moon the reverse.
+而不同语言的这些分类也不一样；比如“太阳”在德语里是阴性，在西班牙语里是阳性，“月亮”则正好相反。
+
+26
+00:02:29,522 --> 00:02:32,984
+Could this actually have any consequence for how people think.
+这真的会对人们怎样思考产生任何影响吗？
+
+27
+00:02:33,008 --> 00:02:38,932
+Do german speakers think of the sun as somehow more female like and the moon somehow more male like.
+说德语的人会不会觉得太阳更像女性，而月亮更像男性呢？
+
+28
+00:02:39,655 --> 00:02:48,468
+Actually it turns out that's the case so if you ask german and spanish speakers to say describe a bridge like the one here.
+她说，事实结果确实如此；比如，请德语和西班牙语使用者描述一座像这里这样的桥。
+
+29
+00:02:48,492 --> 00:02:54,021
+Bridge happens to be grammatically feminine in german grammatically masculine in spanish.
+“桥”恰好在德语里属于语法阴性，在西班牙语里属于语法阳性。
+
+30
+00:02:54,045 --> 00:03:00,514
+German speakers are more likely to say bridges are beautiful elegant and stereotypically feminine words.
+她说，德语使用者更可能用“美丽”“优雅”等在刻板印象中偏女性化的词描述桥。
+
+31
+00:03:00,538 --> 00:03:09,337
+Whereas spanish speakers will be more likely to say they're strong or long these masculine words laughter.
+而她说，西班牙语使用者更可能用“强壮”“长”等她称为偏男性化的词。（观众笑）
